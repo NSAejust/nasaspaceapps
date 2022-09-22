@@ -121,7 +121,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
               inline-size:100%;
               object-fit: cover;
               border-radius: 15%;
-              padding: 1rem;
+              padding: 1rem 2rem;
               border: 6rem ;
               width: 430px;
               flex-shrink: 0;
